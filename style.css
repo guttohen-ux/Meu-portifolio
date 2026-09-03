@@ -280,10 +280,6 @@ section {
   line-height: 1.2;
 }
 
-.project-title.coming-soon {
-  color: rgb(233, 70, 70);
-}
-
 .project-desc {
   font-size: 0.9rem;
   color: #555;
